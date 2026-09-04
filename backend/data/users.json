@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1761318614828",
+    "name": "Snigdha Rao",
+    "email": "snigdha123@gmail.com",
+    "password": "$2b$10$YPVya1qqkWcBcZaxrWBIdur7507UMNbEUKuI417tRwQ2RVkSsC4hS",
+    "role": "job_seeker",
+    "createdAt": "2025-10-24T15:10:14.830Z"
+  },
+  {
+    "id": "1761320322891",
+    "name": "Ravi Kumar",
+    "email": "ravi123@gmail.com",
+    "password": "$2b$10$ptS5pP4pPBjvH1x.//CQXOhQKG//lFjzMWYCYqxSLxTU/G.FIepyG",
+    "role": "employer",
+    "createdAt": "2025-10-24T15:38:42.907Z"
+  },
+  {
+    "id": "1764000026390",
+    "name": "Riya Chawdary",
+    "email": "riya123@gmail.com",
+    "password": "$2b$10$XaVGPkmGxyrPr6WFHZ7ipOMb5s/7Mf5rVjEjEBtEe/9sW2suo57oG",
+    "role": "job_seeker",
+    "createdAt": "2025-11-24T16:00:26.390Z"
+  }
+]

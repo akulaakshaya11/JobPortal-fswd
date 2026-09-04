@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1761318902154",
+    "jobId": 1,
+    "userId": "1761318614828",
+    "name": "Snigdha Rao",
+    "email": "snigdha123@gmail.com",
+    "phone": "9876543210",
+    "github": "https://github.com/in/snig",
+    "linkedin": "https://linkdin.com/in/snig",
+    "resume": "1761318902109-resume.PDF",
+    "coverLetter": "Snigdha\r\nHyderabad, India\r\n📞 9876543210\r\n📧 snigdharao@email.com\r\n\r\nDate: October 24, 2025\r\n\r\nSubject: Application for the Position of Frontend Developer\r\n\r\nDear Hiring Manager,\r\n\r\nI am writing to express my interest in the Frontend Developer position at your organization. With a strong passion for creating intuitive, responsive, and visually appealing web interfaces, I enjoy transforming ideas into interactive digital experiences using technologies like React, HTML, CSS, and JavaScript.\r\n\r\nI take pride in writing clean, efficient code and ensuring a seamless user experience across all devices. I am confident that my technical skills, attention to detail, and creative problem-solving abilities would make me a valuable addition to your development team.\r\n\r\nThank you for considering my application. I look forward to the opportunity to contribute to your projects and grow as part of your organization.\r\n\r\nWarm regards,\r\nSnigdha",
+    "status": "Pending",
+    "appliedAt": "2025-10-24T15:15:02.155Z"
+  },
+  {
+    "id": "1761322268491",
+    "jobId": 11,
+    "userId": "1761318614828",
+    "name": "Snigdha Rao",
+    "email": "snigdha123@gmail.com",
+    "phone": "9876543210",
+    "github": "https://github.com/in/snig",
+    "linkedin": "https://linkdin.com/in/snig",
+    "resume": "1761322268407-resume.PDF",
+    "coverLetter": "Snigdha Rao\r\nHyderabad, India\r\n📞 9876543210\r\n📧 snigdha@123\r\n\r\nDate: October 24, 2025\r\n\r\nSubject: Application for the Position of UI/UX Designer\r\n\r\nDear Hiring Manager,\r\n\r\nI am excited to apply for the UI/UX Designer position at your organization. With a strong passion for creating intuitive, user-friendly, and visually engaging digital experiences, I specialize in transforming complex ideas into seamless designs.\r\n\r\nI have hands-on experience with design tools like Figma, Adobe XD, and Sketch, and I am skilled in conducting user research, wireframing, and prototyping. I thrive in collaborative environments, working closely with developers and stakeholders to ensure designs are both functional and aesthetically pleasing.\r\n\r\nI am confident that my creative problem-solving skills and attention to detail would make me a valuable addition to your team. I look forward to the opportunity to contribute to your projects and help enhance user experiences.\r\n\r\nThank you for considering my application.\r\n\r\nWarm regards,\r\nSnigdha Rao",
+    "status": "Selected",
+    "appliedAt": "2025-10-24T16:11:08.493Z"
+  },
+  {
+    "id": "1763999979644",
+    "jobId": 12,
+    "userId": "1761318614828",
+    "name": "Snigdha Rao",
+    "email": "snigdha123@gmail.com",
+    "phone": "9876543210",
+    "github": "https://github.com/in/snig",
+    "linkedin": "https://linkdin.com/in/snig",
+    "resume": "1763999979607-resume.docx",
+    "coverLetter": "Snigdha\r\nHyderabad, India\r\n📞 9876543210\r\n📧 snigdharao@email.com\r\nDate: 24 October 2025\r\nSubject: Application for the Frontend/UI Developer Role\r\nDear Hiring Manager,\r\nI am excited to apply for the Frontend/UI Developer position at your organization. With strong hands-on experience in React.js, modern JavaScript, and responsive UI design, I have developed the ability to build clean, user-friendly, and visually appealing web interfaces. I enjoy solving real-world problems through technology and creating seamless user experiences.\r\nWhy I am great for this role:\r\nI bring a combination of technical expertise, creativity, and strong attention to detail. My experience working with React, Tailwind CSS, and API integrations allows me to develop fast, responsive, and intuitive interfaces. I am a quick learner, a strong communicator, and I collaborate well with designers and backend teams — ensuring smooth development workflows. My goal is always to deliver clean code, elegant UI, and meaningful improvements to the product.\r\nThank you for considering my application. I would love the opportunity to contribute my skills to your team and continue growing as a frontend developer.\r\nWarm regards,\r\nSnigdha",
+    "status": "Rejected",
+    "appliedAt": "2025-11-24T15:59:39.644Z"
+  },
+  {
+    "id": "1764000145065",
+    "jobId": 12,
+    "userId": "1764000026390",
+    "name": "Riya Chawdary",
+    "email": "riya123@gmail.com",
+    "phone": "8907654321",
+    "github": "https://github.com/in/riya",
+    "linkedin": "https://linkdin.com/in/riya",
+    "resume": "1764000145044-resume.docx",
+    "coverLetter": "Riya\r\nNizamabad, India\r\n📞 8907654321\r\n📧 riya123@gmail.com\r\nDate: 24 October 2025\r\nSubject: Application for the Frontend/UI Developer Role\r\nDear Hiring Manager,\r\nI am excited to apply for the Frontend/UI Developer position at your organization. With strong hands-on experience in React.js, modern JavaScript, and responsive UI design, I have developed the ability to build clean, user-friendly, and visually appealing web interfaces. I enjoy solving real-world problems through technology and creating seamless user experiences.\r\nWhy I am great for this role:\r\nI bring a combination of technical expertise, creativity, and strong attention to detail. My experience working with React, Tailwind CSS, and API integrations allows me to develop fast, responsive, and intuitive interfaces. I am a quick learner, a strong communicator, and I collaborate well with designers and backend teams — ensuring smooth development workflows. My goal is always to deliver clean code, elegant UI, and meaningful improvements to the product.\r\nThank you for considering my application. I would love the opportunity to contribute my skills to your team and continue growing as a frontend developer.\r\nWarm regards,\r\nRiya",
+    "status": "Selected",
+    "appliedAt": "2025-11-24T16:02:25.067Z"
+  }
+]

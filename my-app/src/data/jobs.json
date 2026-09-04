@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Remote",
+    "description": "Build modern web applications using React."
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "DataSolutions",
+    "location": "New York, USA",
+    "description": "Develop APIs and manage databases."
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "InnovateX",
+    "location": "San Francisco, USA",
+    "description": "Work on both frontend and backend development."
+  }
+]

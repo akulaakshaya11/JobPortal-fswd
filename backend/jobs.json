@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Google",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/240px-Google_2015_logo.svg.png",
+    "location": "Bangalore, India",
+    "salary": "₹60,000 - ₹80,000",
+    "experience": "1-3 years",
+    "skills": [
+      "React",
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "description": "Build responsive web applications using React and modern web technologies. Work with Google's cutting-edge tools and collaborate with world-class engineers.",
+    "requirements": "Knowledge of React, CSS, HTML, and JavaScript. Experience with responsive design and Google's development standards.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "location": "Mumbai, India",
+    "salary": "₹70,000 - ₹90,000",
+    "experience": "2-4 years",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "AWS"
+    ],
+    "description": "Develop robust backend APIs and manage database systems for Amazon's massive scale. Build microservices and work with cloud infrastructure.",
+    "requirements": "Proficiency in Node.js, Express, and MongoDB. RESTful API design experience and AWS knowledge preferred.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 3,
+    "title": "Fullstack Developer",
+    "company": "Microsoft",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/240px-Microsoft_logo.svg.png",
+    "location": "Pune, India",
+    "salary": "₹75,000 - ₹95,000",
+    "experience": "3-5 years",
+    "skills": [
+      "React",
+      "Node.js",
+      "SQL",
+      "Azure"
+    ],
+    "description": "Work on both frontend and backend to build scalable applications on Microsoft Azure. Collaborate on enterprise-level projects.",
+    "requirements": "Full-stack development expertise with React and Node.js. Azure experience is a plus.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "Apple",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/240px-Apple_logo_black.svg.png",
+    "location": "Hyderabad, India",
+    "salary": "₹65,000 - ₹85,000",
+    "experience": "2-3 years",
+    "skills": [
+      "Figma",
+      "Sketch",
+      "Prototyping",
+      "Human Interface Design"
+    ],
+    "description": "Design intuitive and attractive user interfaces for Apple's products. Work with world-class designers on innovative projects.",
+    "requirements": "Expertise in Figma/Sketch and UI/UX design principles. Apple Human Interface Design experience preferred.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 5,
+    "title": "Data Analyst",
+    "company": "GitHub",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/240px-Octicons-mark-github.svg.png",
+    "location": "Chennai, India",
+    "salary": "₹55,000 - ₹75,000",
+    "experience": "1-2 years",
+    "skills": [
+      "Python",
+      "SQL",
+      "Tableau",
+      "Data Visualization"
+    ],
+    "description": "Analyze data sets to derive actionable business insights for GitHub's platforms. Work with massive datasets to drive product decisions.",
+    "requirements": "Strong SQL, Python, and data visualization skills. Experience with Tableau or similar tools.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Engineer",
+    "company": "IBM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/240px-IBM_logo.svg.png",
+    "location": "Bangalore, India",
+    "salary": "₹80,000 - ₹1,10,000",
+    "experience": "3-5 years",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "ML Algorithms"
+    ],
+    "description": "Develop and deploy machine learning models for IBM's AI and Watson systems. Build cutting-edge ML solutions and AI platforms.",
+    "requirements": "Advanced ML knowledge with TensorFlow and PyTorch. Experience with enterprise AI systems preferred.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 7,
+    "title": "DevOps Engineer",
+    "company": "Uber",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/240px-Uber_logo_2018.svg.png",
+    "location": "Chennai, India",
+    "salary": "₹70,000 - ₹95,000",
+    "experience": "2-4 years",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "description": "Manage cloud infrastructure and automate deployment pipelines for Uber's global platform. Work at massive scale.",
+    "requirements": "AWS, Docker, Kubernetes, and CI/CD pipeline expertise. High reliability experience required.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 8,
+    "title": "Mobile App Developer",
+    "company": "Spotify",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/240px-Spotify_App_Logo.svg.png",
+    "location": "Mumbai, India",
+    "salary": "₹65,000 - ₹85,000",
+    "experience": "2-3 years",
+    "skills": [
+      "React Native",
+      "Flutter",
+      "iOS",
+      "Android"
+    ],
+    "description": "Build mobile applications for Spotify's Android and iOS platforms. Create experiences for millions of users worldwide.",
+    "requirements": "React Native or Flutter, iOS and Android experience. Music streaming knowledge a plus.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Analyst",
+    "company": "LinkedIn",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png",
+    "location": "Pune, India",
+    "salary": "₹65,000 - ₹85,000",
+    "experience": "2-4 years",
+    "skills": [
+      "Network Security",
+      "Penetration Testing",
+      "Python"
+    ],
+    "description": "Monitor and protect LinkedIn's systems from security threats. Secure data for millions of professionals worldwide.",
+    "requirements": "Network security, penetration testing, and Python skills. Experience with enterprise security preferred.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 10,
+    "title": "Product Manager",
+    "company": "Twitter",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/240px-Logo_of_Twitter.svg.png",
+    "location": "Bangalore, India",
+    "salary": "₹80,000 - ₹1,10,000",
+    "experience": "3-5 years",
+    "skills": [
+      "Agile",
+      "Scrum",
+      "Roadmapping",
+      "Analytics"
+    ],
+    "description": "Lead product development from ideation to launch. Coordinate cross-functional teams to drive Twitter's vision forward.",
+    "requirements": "Product management, Agile, and stakeholder management expertise. Social media platform experience preferred.",
+    "postedBy": null,
+    "postedAt": "2024-01-01"
+  },
+  {
+    "id": 11,
+    "title": "UI/UX Designer",
+    "company": "CreativeEdge Solutions Pvt. Ltd.",
+    "logo": "https://ui-avatars.com/api/?name=CE&background=FF6B6B&color=fff&size=128",
+    "location": "Hyderabad, India (Hybrid)",
+    "salary": "₹5,50,000 – ₹8,00,000 per annum",
+    "experience": "2–4 years",
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "Sketch",
+      "Wireframing",
+      "Prototyping",
+      "User Research",
+      "Responsive Design"
+    ],
+    "description": "We are seeking a talented UI/UX Designer to craft visually appealing and user-friendly digital experiences. You will collaborate closely with product managers, developers, and stakeholders to translate requirements into intuitive designs.\n\nResponsibilities:\n\nCreate wireframes, mockups, and interactive prototypes\n\nConduct user research and usability testing\n\nDevelop and maintain design systems and style guides\n\nWork with developers to ensure accurate implementation of designs\n\nOptimize designs for different devices and platforms",
+    "requirements": "- Proven experience as a UI/UX designer\n\nStrong portfolio showcasing web and mobile designs\n\nProficiency in design and prototyping tools (Figma, Adobe XD, Sketch)\n\nUnderstanding of responsive design principles\n\nGood communication and collaboration skills\n\nBonus: Experience with front-end technologies (HTML/CSS/JS)",
+    "postedBy": "1761320322891",
+    "postedAt": "2025-10-24T15:43:32.689Z"
+  },
+  {
+    "id": 12,
+    "title": "Junior Frontend Developer (React)",
+    "company": "Intel Technologies",
+    "location": "Hyderabad, India",
+    "salary": "₹8,00,000 – ₹10,00,000 per annum",
+    "experience": "1-2 years",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "Git"
+    ],
+    "description": "We are seeking a passionate Frontend Developer with hands-on experience in React. You will be responsible for building responsive user interfaces, improving website performance, and collaborating with backend teams to deliver seamless user experiences. The ideal candidate should have strong problem-solving skills and a good understanding of modern JavaScript frameworks.",
+    "requirements": "Strong knowledge of React.js, JavaScript (ES6+), HTML5, CSS3\n\nUnderstanding of state management (Context API/Redux)\n\nExperience with REST APIs\n\nBasic knowledge of Git and version control\n\nGood communication skills and willingness to learn\n\nBonus: Experience with Tailwind CSS or Material UI",
+    "postedBy": "1761320322891",
+    "postedAt": "2025-11-24T15:56:41.238Z"
+  }
+]
